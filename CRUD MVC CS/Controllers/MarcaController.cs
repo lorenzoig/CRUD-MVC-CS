@@ -10,13 +10,21 @@ namespace CRUD_MVC_CS.Controllers
     public class MarcaController : Controller
     {
         // GET: Marca
-        public ActionResult Index()
+        public ActionResult Index() //cada método que se agrega al controler es llamado  una Acción
         {
+            List<MarcaCLS> listaMarca = null;
             using (var bd=new BDPasajeEntities())
             {
+                listaMarca = (from marca in bd.Marca//recorre cada fila en la tabla de la BD
+                                             select new MarcaCLS
+                                             {
+                                                 idMarca = marca.IIDMARCA,
+                                                 nombre = marca.NOMBRE,
+                                                 descripcion = marca.DESCRIPCION
+                                             }).ToList();
 
             }
-            return View();
+            return View(listaMarca);
         }
     }
 }

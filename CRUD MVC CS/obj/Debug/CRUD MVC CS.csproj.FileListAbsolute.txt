@@ -1,0 +1,55 @@
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\ApplicationInsights.config
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\csc.exe
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\System.Collections.Immutable.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\vbc.exe
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\VBCSCompiler.exe
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\roslyn\VBCSCompiler.exe.config
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\CRUD MVC CS.dll.config
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\CRUD MVC CS.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\CRUD MVC CS.pdb
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\EntityFramework.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\EntityFramework.SqlServer.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.AI.Web.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.AI.WindowsServer.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.ApplicationInsights.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Helpers.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Mvc.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Razor.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Webpages.Deployment.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Webpages.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Webpages.Razor.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\EntityFramework.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\EntityFramework.SqlServer.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.AI.Web.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.AI.WindowsServer.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.ApplicationInsights.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Razor.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Webpages.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Webpages.Deployment.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Webpages.Razor.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Helpers.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\System.Web.Mvc.xml
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\es\System.Web.Razor.resources.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\es\System.Web.Webpages.resources.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\es\System.Web.Helpers.resources.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\bin\es\System.Web.Mvc.resources.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\obj\Debug\CRUD MVC CS.csprojResolveAssemblyReference.cache
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\obj\Debug\CRUD MVC CS.dll
+C:\Lorenzo\Git\CRUD-MVC-CS\CRUD MVC CS\obj\Debug\CRUD MVC CS.pdb
