@@ -1,0 +1,33 @@
+﻿@using CRUD_MVC_CS.Models
+@model List<ClienteCLS>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table table-bordered table-hover ">
+    <thead>
+        <tr>
+            <td>@Html.LabelFor(p=> Model[0].idCliente)</td>
+            <td>@Html.LabelFor(p => Model[0].nombre)</td>
+            <td>@Html.LabelFor(p => Model[0].apellidoPaterno)</td>
+            <td>@Html.LabelFor(p => Model[0].apellidoMaterno)</td>
+            <td>@Html.LabelFor(p => Model[0].email)</td>
+            <td>@Html.LabelFor(p => Model[0].telefonoFijo)</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) 
+        {
+            <tr>
+                <td>@item.idCliente </td>
+                <td>@item.nombre </td>
+                <td>@item.apellidoPaterno</td>
+                <td>@item.apellidoMaterno </td>
+                <td>@item.email</td>
+                <td>@item.telefonoFijo</td>
+            </tr>
+        }
+    </tbody>
+</table> 
